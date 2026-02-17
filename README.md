@@ -6,7 +6,7 @@ Interactive demo of **Conflict-free Replicated Data Types** using [Yjs](https://
 
 > Two simulated peers edit shared data structures in real-time. Toggle them offline, make conflicting edits, then reconnect — CRDTs merge everything automatically, no conflicts.
 
-<video src="https://github.com/user-attachments/assets/ee892577-5b0e-45b5-9686-5eebbdbaa2b3" controls muted width="100%" autoplay loop></video>
+<video src="https://github.com/user-attachments/assets/a905ad6c-a403-4df8-a6b8-9c655d84c639" controls muted width="100%" autoplay loop></video>
 
 ## What it demonstrates
 
